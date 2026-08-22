@@ -63,6 +63,7 @@ Problems are organized by **topic/category** rather than by day.
 |   2 | Check Palindrome Number | While Loop       |    ✅   |
 |   3 | Find Largest Element    | For Loop         |    ✅   |
 |   4 | Find Smallest Element   | For Loop         |    ✅   |
+|   5 | Factorial of a Number   | For Loop         |    ✅   |
 
 ---
 
@@ -76,6 +77,7 @@ Problems are organized by **topic/category** rather than by day.
 |  2 | Check Palindrome Number | While Loop      |
 |  3 | Find Largest Element    | For Loop        |
 |  4 | Find Smallest Element   | For Loop        |
+|  5 | Factorial of a Number   | For Loop        |
  
 ---
 
@@ -190,9 +192,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 4**
+**Problems Solved: 5**
 
-**Current Day: 4**
+**Current Day: 5**
 
 ---
 
