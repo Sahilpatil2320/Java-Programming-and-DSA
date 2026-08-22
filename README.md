@@ -84,7 +84,7 @@ Problems are organized by **topic/category** rather than by day.
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 4
+Total Problems Solved: 5
 
 01-Simple-Java       ██████████
 
