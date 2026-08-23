@@ -64,6 +64,7 @@ Problems are organized by **topic/category** rather than by day.
 |   3 | Find Largest Element    | For Loop         |    ✅   |
 |   4 | Find Smallest Element   | For Loop         |    ✅   |
 |   5 | Factorial of a Number   | For Loop         |    ✅   |
+|   6 | Sum of Digits           | While Loop       |    ✅   |
 
 ---
 
@@ -78,13 +79,14 @@ Problems are organized by **topic/category** rather than by day.
 |  3 | Find Largest Element    | For Loop        |
 |  4 | Find Smallest Element   | For Loop        |
 |  5 | Factorial of a Number   | For Loop        |
+|  6 | Sum of Digits           | While Loop      |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 5
+Total Problems Solved: 6
 
 01-Simple-Java       ██████████
 
@@ -192,9 +194,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 5**
+**Problems Solved: 6**
 
-**Current Day: 5**
+**Current Day: 6**
 
 ---
 
