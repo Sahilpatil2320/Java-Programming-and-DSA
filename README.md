@@ -65,6 +65,7 @@ Problems are organized by **topic/category** rather than by day.
 |   4 | Find Smallest Element   | For Loop         |    ✅   |
 |   5 | Factorial of a Number   | For Loop         |    ✅   |
 |   6 | Sum of Digits           | While Loop       |    ✅   |
+|   7 | Count Number of Digits  | While Loop       |    ✅   |
 
 ---
 
@@ -80,13 +81,14 @@ Problems are organized by **topic/category** rather than by day.
 |  4 | Find Smallest Element   | For Loop        |
 |  5 | Factorial of a Number   | For Loop        |
 |  6 | Sum of Digits           | While Loop      |
+|  7 | Count Number of Digits  | While Loop      |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 6
+Total Problems Solved: 7
 
 01-Simple-Java       ██████████
 
@@ -194,9 +196,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 6**
+**Problems Solved: 7**
 
-**Current Day: 6**
+**Current Day: 7**
 
 ---
 
