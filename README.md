@@ -66,6 +66,7 @@ Problems are organized by **topic/category** rather than by day.
 |   5 | Factorial of a Number   | For Loop         |    ✅   |
 |   6 | Sum of Digits           | While Loop       |    ✅   |
 |   7 | Count Number of Digits  | While Loop       |    ✅   |
+|   8 | Check Prime Number      | For Loop         |    ✅   |
 
 ---
 
@@ -82,13 +83,14 @@ Problems are organized by **topic/category** rather than by day.
 |  5 | Factorial of a Number   | For Loop        |
 |  6 | Sum of Digits           | While Loop      |
 |  7 | Count Number of Digits  | While Loop      |
+|  8 | Check Prime Number      | For Loop        |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 7
+Total Problems Solved: 8
 
 01-Simple-Java       ██████████
 
@@ -196,9 +198,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 7**
+**Problems Solved: 8**
 
-**Current Day: 7**
+**Current Day: 8**
 
 ---
 
