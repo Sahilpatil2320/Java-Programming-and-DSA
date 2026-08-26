@@ -67,6 +67,7 @@ Problems are organized by **topic/category** rather than by day.
 |   6 | Sum of Digits           | While Loop       |    ✅   |
 |   7 | Count Number of Digits  | While Loop       |    ✅   |
 |   8 | Check Prime Number      | For Loop         |    ✅   |
+|   9 | Armstrong Number        | While Loop       |    ✅   |
 
 ---
 
@@ -84,13 +85,14 @@ Problems are organized by **topic/category** rather than by day.
 |  6 | Sum of Digits           | While Loop      |
 |  7 | Count Number of Digits  | While Loop      |
 |  8 | Check Prime Number      | For Loop        |
+|  9 | Armstrong Number        | While Loop      |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 8
+Total Problems Solved: 9
 
 01-Simple-Java       ██████████
 
@@ -198,9 +200,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 8**
+**Problems Solved: 9**
 
-**Current Day: 8**
+**Current Day: 9**
 
 ---
 
