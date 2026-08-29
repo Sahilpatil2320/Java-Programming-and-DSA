@@ -70,6 +70,7 @@ Problems are organized by **topic/category** rather than by day.
 |   9 | Armstrong Number        | While Loop       |    ✅   |
 |  10 | Fibonacci Series        | For Loop         |    ✅   |
 |  11 | Reverse a String        | For Loop         |    ✅   |
+|  12 | Count Vowels in a String| For Loop         |    ✅   |
 
 ---
 
@@ -90,13 +91,14 @@ Problems are organized by **topic/category** rather than by day.
 |  9 | Armstrong Number        | While Loop      |
 | 10 | Fibonacci Series        | For Loop        |
 | 11 | Reverse a String        | For Loop        |
+| 12 | Count Vowels in a String| For Loop        |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 11
+Total Problems Solved: 12
 
 01-Simple-Java       ██████████
 
@@ -204,9 +206,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 11**
+**Problems Solved: 12**
 
-**Current Day: 11**
+**Current Day: 12**
 
 ---
 
