@@ -71,6 +71,7 @@ Problems are organized by **topic/category** rather than by day.
 |  10 | Fibonacci Series        | For Loop         |    ✅   |
 |  11 | Reverse a String        | For Loop         |    ✅   |
 |  12 | Count Vowels in a String| For Loop         |    ✅   |
+|  13 | Count Consonants in a String | For Loop    |    ✅   | 
 
 ---
 
@@ -92,13 +93,14 @@ Problems are organized by **topic/category** rather than by day.
 | 10 | Fibonacci Series        | For Loop        |
 | 11 | Reverse a String        | For Loop        |
 | 12 | Count Vowels in a String| For Loop        |
+| 13 | Count Consonants in a String| For Loop    |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 12
+Total Problems Solved: 13
 
 01-Simple-Java       ██████████
 
@@ -206,9 +208,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 12**
+**Problems Solved: 13**
 
-**Current Day: 12**
+**Current Day: 13**
 
 ---
 
