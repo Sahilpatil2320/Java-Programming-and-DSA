@@ -72,6 +72,7 @@ Problems are organized by **topic/category** rather than by day.
 |  11 | Reverse a String        | For Loop         |    ✅   |
 |  12 | Count Vowels in a String| For Loop         |    ✅   |
 |  13 | Count Consonants in a String | For Loop    |    ✅   | 
+| 14 | Check Palindrome String | For Loop | ✅ |
 
 ---
 
@@ -94,13 +95,14 @@ Problems are organized by **topic/category** rather than by day.
 | 11 | Reverse a String        | For Loop        |
 | 12 | Count Vowels in a String| For Loop        |
 | 13 | Count Consonants in a String| For Loop    |
+| 14 | Check Palindrome String | For Loop |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 13
+Total Problems Solved: 14
 
 01-Simple-Java       ██████████
 
@@ -208,9 +210,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 13**
+**Problems Solved: 14**
 
-**Current Day: 13**
+**Current Day: 14**
 
 ---
 
