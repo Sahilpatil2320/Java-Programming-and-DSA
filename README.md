@@ -73,6 +73,7 @@ Problems are organized by **topic/category** rather than by day.
 |  12 | Count Vowels in a String| For Loop         |    ✅   |
 |  13 | Count Consonants in a String | For Loop    |    ✅   | 
 | 14 | Check Palindrome String | For Loop | ✅ |
+| 15 | Character Frequency | For Loop | ✅ |
 
 ---
 
@@ -96,13 +97,14 @@ Problems are organized by **topic/category** rather than by day.
 | 12 | Count Vowels in a String| For Loop        |
 | 13 | Count Consonants in a String| For Loop    |
 | 14 | Check Palindrome String | For Loop |
+| 15 | Character Frequency | For Loop |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 14
+Total Problems Solved: 15
 
 01-Simple-Java       ██████████
 
@@ -210,9 +212,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 14**
+**Problems Solved: 15**
 
-**Current Day: 14**
+**Current Day: 15**
 
 ---
 
