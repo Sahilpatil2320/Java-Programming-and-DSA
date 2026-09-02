@@ -74,6 +74,7 @@ Problems are organized by **topic/category** rather than by day.
 |  13 | Count Consonants in a String | For Loop    |    ✅   | 
 | 14 | Check Palindrome String | For Loop | ✅ |
 | 15 | Character Frequency | For Loop | ✅ |
+| 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
 
 ---
 
@@ -98,13 +99,14 @@ Problems are organized by **topic/category** rather than by day.
 | 13 | Count Consonants in a String| For Loop    |
 | 14 | Check Palindrome String | For Loop |
 | 15 | Character Frequency | For Loop |
+| 16 | Count Even and Odd Numbers in an Array | For Loop |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 15
+Total Problems Solved: 16
 
 01-Simple-Java       ██████████
 
@@ -212,9 +214,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 15**
+**Problems Solved: 16**
 
-**Current Day: 15**
+**Current Day: 16**
 
 ---
 
