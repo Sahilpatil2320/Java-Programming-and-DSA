@@ -76,32 +76,6 @@ Problems are organized by **topic/category** rather than by day.
 | 15 | Character Frequency | For Loop | ✅ |
 | 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
 | 17 | Sum of All Elements in an Array | For Loop | ✅ |
-
----
-
-## 🗂️ Completed Problems
-
-### 01 — Simple Java
-
-|  # | Problem                 | Category        |
-| -: | ----------------------- | --------------- |
-|  1 | Reverse a Number        | While Loop      |
-|  2 | Check Palindrome Number | While Loop      |
-|  3 | Find Largest Element    | For Loop        |
-|  4 | Find Smallest Element   | For Loop        |
-|  5 | Factorial of a Number   | For Loop        |
-|  6 | Sum of Digits           | While Loop      |
-|  7 | Count Number of Digits  | While Loop      |
-|  8 | Check Prime Number      | For Loop        |
-|  9 | Armstrong Number        | While Loop      |
-| 10 | Fibonacci Series        | For Loop        |
-| 11 | Reverse a String        | For Loop        |
-| 12 | Count Vowels in a String| For Loop        |
-| 13 | Count Consonants in a String| For Loop    |
-| 14 | Check Palindrome String | For Loop |
-| 15 | Character Frequency | For Loop |
-| 16 | Count Even and Odd Numbers in an Array | For Loop |
-| 17 | Sum of All Elements in an Array | For Loop |
  
 ---
 
@@ -109,8 +83,7 @@ Problems are organized by **topic/category** rather than by day.
 
 ```text
 Total Problems Solved: 17
-
-01-Simple-Java       ██████████
+Current Day: 17
 
 
 ---
