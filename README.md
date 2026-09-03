@@ -75,6 +75,7 @@ Problems are organized by **topic/category** rather than by day.
 | 14 | Check Palindrome String | For Loop | ✅ |
 | 15 | Character Frequency | For Loop | ✅ |
 | 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
+| 17 | Sum of All Elements in an Array | For Loop | ✅ |
 
 ---
 
@@ -100,13 +101,14 @@ Problems are organized by **topic/category** rather than by day.
 | 14 | Check Palindrome String | For Loop |
 | 15 | Character Frequency | For Loop |
 | 16 | Count Even and Odd Numbers in an Array | For Loop |
+| 17 | Sum of All Elements in an Array | For Loop |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 16
+Total Problems Solved: 17
 
 01-Simple-Java       ██████████
 
@@ -214,9 +216,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 16**
+**Problems Solved: 17**
 
-**Current Day: 16**
+**Current Day: 17**
 
 ---
 
