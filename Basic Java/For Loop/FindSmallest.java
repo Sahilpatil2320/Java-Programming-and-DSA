@@ -8,6 +8,7 @@ public class FindSmallest {
 
         if( n <= 0){
             System.out.println("Array length must be greater than zero.");
+            sc.close();
             return;
         }
 
