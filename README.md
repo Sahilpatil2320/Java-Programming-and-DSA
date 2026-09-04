@@ -76,14 +76,15 @@ Problems are organized by **topic/category** rather than by day.
 | 15 | Character Frequency | For Loop | ✅ |
 | 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
 | 17 | Sum of All Elements in an Array | For Loop | ✅ |
+| 18 | Average of All Elements in an Array | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 17
-Current Day: 17
+Total Problems Solved: 18
+Current Day: 18
 
 
 ---
