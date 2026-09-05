@@ -77,14 +77,15 @@ Problems are organized by **topic/category** rather than by day.
 | 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
 | 17 | Sum of All Elements in an Array | For Loop | ✅ |
 | 18 | Average of All Elements in an Array | For Loop | ✅ |
+| 19 | Largest and Smallest Element in an Array | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 18
-Current Day: 18
+Total Problems Solved: 19
+Current Day: 19
 
 
 ---
@@ -190,9 +191,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 17**
+**Problems Solved: 19**
 
-**Current Day: 17**
+**Current Day: 19**
 
 ---
 
