@@ -79,14 +79,15 @@ Problems are organized by **topic/category** rather than by day.
 | 18 | Average of All Elements in an Array | For Loop | ✅ |
 | 19 | Largest and Smallest Element in an Array | For Loop | ✅ |
 | 20 | Count Positive, Negative and Zero Elements | For Loop | ✅ |
+| 21 | Count Occurrences of a Given Element in an Array | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 20
-Current Day: 20
+Total Problems Solved: 21
+Current Day: 21
 
 
 ---
@@ -192,9 +193,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 20**
+**Problems Solved: 21**
 
-**Current Day: 20**
+**Current Day: 21**
 
 ---
 
