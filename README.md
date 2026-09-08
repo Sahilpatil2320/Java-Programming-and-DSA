@@ -80,14 +80,15 @@ Problems are organized by **topic/category** rather than by day.
 | 19 | Largest and Smallest Element in an Array | For Loop | ✅ |
 | 20 | Count Positive, Negative and Zero Elements | For Loop | ✅ |
 | 21 | Count Occurrences of a Given Element in an Array | For Loop | ✅ |
+| 22 | Second Largest Element in an Array | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 21
-Current Day: 21
+Total Problems Solved: 22
+Current Day: 22
 
 
 ---
