@@ -81,14 +81,15 @@ Problems are organized by **topic/category** rather than by day.
 | 20 | Count Positive, Negative and Zero Elements | For Loop | ✅ |
 | 21 | Count Occurrences of a Given Element in an Array | For Loop | ✅ |
 | 22 | Second Largest Element in an Array | For Loop | ✅ |
+| 23 | Second Smallest Element in an Array | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 22
-Current Day: 22
+Total Problems Solved: 23
+Current Day: 23
 
 
 ---
@@ -194,9 +195,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 22**
+**Problems Solved: 23**
 
-**Current Day: 22**
+**Current Day: 23**
 
 ---
 
