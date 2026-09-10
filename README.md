@@ -83,14 +83,15 @@ Problems are organized by **topic/category** rather than by day.
 | 22 | Second Largest Element in an Array | For Loop | ✅ |
 | 23 | Second Smallest Element in an Array | For Loop | ✅ |
 | 24 | Reverse an Array | While Loop | ✅ |
+| 25 | Sum of Even and Odd Elements | For Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 24
-Current Day: 24
+Total Problems Solved: 25
+Current Day: 25
 
 
 ---
@@ -196,9 +197,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 24**
+**Problems Solved: 25**
 
-**Current Day: 24**
+**Current Day: 25**
 
 ---
 
