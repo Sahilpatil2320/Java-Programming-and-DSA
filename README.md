@@ -86,14 +86,15 @@ Problems are organized by **topic/category** rather than by day.
 | 25 | Sum of Even and Odd Elements | For Loop | ✅ |
 | 26 | Find Duplicate Elements in an Array | Nested Loop | ✅ |
 | 27 | Find Missing Number in an Array | For Loop | ✅ |
+| 28 | First Repeating Element in an Array | Nested Loop | ✅ |
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 27
-Current Day: 27  
+Total Problems Solved: 28
+Current Day: 28 
 
 
 ---
@@ -199,9 +200,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 27**
+**Problems Solved: 28**
 
-**Current Day: 27**
+**Current Day: 28**
 
 ---
 
