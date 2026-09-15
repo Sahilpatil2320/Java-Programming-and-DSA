@@ -87,14 +87,16 @@ Problems are organized by **topic/category** rather than by day.
 | 26 | Find Duplicate Elements in an Array | Nested Loop | ✅ |
 | 27 | Find Missing Number in an Array | For Loop | ✅ |
 | 28 | First Repeating Element in an Array | Nested Loop | ✅ |
+| 29 | First Non Repeating Element in an Array | Nested Loop | ✅ |
+
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 28
-Current Day: 28 
+Total Problems Solved: 29
+Current Day: 29
 
 
 ---
@@ -200,9 +202,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 28**
+**Problems Solved: 29**
 
-**Current Day: 28**
+**Current Day: 29**
 
 ---
 
