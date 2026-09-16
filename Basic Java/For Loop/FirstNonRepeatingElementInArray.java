@@ -17,24 +17,22 @@ public class FirstNonRepeatingElementInArray {
         boolean found = false;
 
         for (int i = 0; i < n; i++) {
-            boolean repeating = false;
+            for (int j = i + 1; j < n; j++) {
 
-            for (int j = 0; j < n; j++) {
-                if (i != j && arr[i] == arr[j]) {
-                    repeating = true;
+                if (arr[i] == arr[j]) {
+                    System.out.println("First repeating element = " + arr[i]);
+                    found = true;
                     break;
                 }
             }
 
-            if (!repeating) {
-                System.out.println("First non-repeating element = " + arr[i]);
-                found = true;
+            if (found) {
                 break;
             }
         }
 
         if (!found) {
-            System.out.println("No non-repeating element");
+            System.out.println("No repeating element");
         }
 
         sc.close();
