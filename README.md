@@ -69,22 +69,22 @@ Problems are organized by **topic/category** rather than by day.
 - String Programs — Complete ✅
 
 ### Array
-- Basic Array Programs — **4/5  🟢**
+- Basic Array Programs — **5/5  ✅**
 
 ### 🚀 Current Topic 
 **Array → Two Pointer** 
 
 Previous: 
 
-**Array → Basic Array Programs → 4/5 🟢**
+**Array → Basic Array Programs → 5/5 ✅**
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 34
-Current Day: 34
+Total Problems Solved: 35
+Current Day: 35
 
 
 ---
@@ -190,9 +190,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 34**
+**Problems Solved: 35**
 
-**Current Day: 34**
+**Current Day: 35**
 
 ---
 
