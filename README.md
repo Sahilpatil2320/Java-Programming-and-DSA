@@ -49,13 +49,13 @@ Problems are organized by **topic/category** rather than by day.
 ## 📚 Topics Covered
 
 ### 01 — Basic Java
-• For Loop
-• While Loop
-• Number Programs
-• String Programs
+- For Loop 
+- While Loop 
+- Number Programs 
+- String Programs 
 
 ### 02 - Array
-• Basic Array Programs
+- Basic Array Programs
 
 
 ---
