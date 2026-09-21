@@ -76,7 +76,7 @@ Problems are organized by **topic/category** rather than by day.
 
 Previous: 
 
-**Array → Basic Array Programs → 4/5 🟢 **
+**Array → Basic Array Programs → 4/5 🟢**
  
 ---
 
