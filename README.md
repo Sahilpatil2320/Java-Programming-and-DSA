@@ -27,15 +27,16 @@ The goal is to solve **at least one coding problem every day**, improve logical 
 ## 📂 Repository Structure
 
 ```text
-Java-DSA-Daily-Practice/
+Java-Programming-and-DSA/
 │
-├── README.md
+├── Basic Java/
+│   ├── For Loop/
+│   ├── While loop/
+│   ├── Number Programs/
+│   └── String Programs/
 │
-├── 01-Simple-Java/
-│   ├── ForLoop/
-│   ├── WhileLoop/
-│   ├── NumberPrograms/
-│   └── BasicPatterns/
+├── Array/
+│   ├── 01-Basic Array Programs/
 │
 ├── -- 
 
@@ -47,56 +48,43 @@ Problems are organized by **topic/category** rather than by day.
 
 ## 📚 Topics Covered
 
-### 01 — Simple Java
+### 01 — Basic Java
+• For Loop
+• While Loop
+• Number Programs
+• String Programs
 
-* For Loop
-* While Loop
+### 02 - Array
+• Basic Array Programs
 
 
 ---
 
-# 📈 Daily Progress
+# 📊 DSA Progress
 
-| Day | Problem                 | Topic            | Status  |
-| --: | ----------------------- | ---------------  | :----:  |
-|   1 | Reverse a Number        | While Loop       |    ✅   |
-|   2 | Check Palindrome Number | While Loop       |    ✅   |
-|   3 | Find Largest Element    | For Loop         |    ✅   |
-|   4 | Find Smallest Element   | For Loop         |    ✅   |
-|   5 | Factorial of a Number   | For Loop         |    ✅   |
-|   6 | Sum of Digits           | While Loop       |    ✅   |
-|   7 | Count Number of Digits  | While Loop       |    ✅   |
-|   8 | Check Prime Number      | For Loop         |    ✅   |
-|   9 | Armstrong Number        | While Loop       |    ✅   |
-|  10 | Fibonacci Series        | For Loop         |    ✅   |
-|  11 | Reverse a String        | For Loop         |    ✅   |
-|  12 | Count Vowels in a String| For Loop         |    ✅   |
-|  13 | Count Consonants in a String | For Loop    |    ✅   | 
-| 14 | Check Palindrome String | For Loop | ✅ |
-| 15 | Character Frequency | For Loop | ✅ |
-| 16 | Count Even and Odd Numbers in an Array | For Loop | ✅ |
-| 17 | Sum of All Elements in an Array | For Loop | ✅ |
-| 18 | Average of All Elements in an Array | For Loop | ✅ |
-| 19 | Largest and Smallest Element in an Array | For Loop | ✅ |
-| 20 | Count Positive, Negative and Zero Elements | For Loop | ✅ |
-| 21 | Count Occurrences of a Given Element in an Array | For Loop | ✅ |
-| 22 | Second Largest Element in an Array | For Loop | ✅ |
-| 23 | Second Smallest Element in an Array | For Loop | ✅ |
-| 24 | Reverse an Array | While Loop | ✅ |
-| 25 | Sum of Even and Odd Elements | For Loop | ✅ |
-| 26 | Find Duplicate Elements in an Array | Nested Loop | ✅ |
-| 27 | Find Missing Number in an Array | For Loop | ✅ |
-| 28 | First Repeating Element in an Array | Nested Loop | ✅ |
-| 29 | First Non Repeating Element in an Array | Nested Loop | ✅ |
+### Basic Java
+- For Loop — Complete ✅
+- While Loop — Complete ✅
+- Number Programs — Complete ✅
+- String Programs — Complete ✅
 
+### Array
+- Basic Array Programs — **4/5  🟢**
+
+### 🚀 Current Topic 
+**Array → Two Pointer** 
+
+Previous: 
+
+**Array → Basic Array Programs → 4/5 🟢 **
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 29
-Current Day: 29
+Total Problems Solved: 34
+Current Day: 34
 
 
 ---
@@ -187,7 +175,7 @@ The focus is to:
 
 # 🚀 Future Goals
 
-* [ ] Complete 30+ Java problems
+* [✅] Complete 30+ Java problems
 * [ ] Complete 50+ Java & DSA problems
 * [ ] Complete 100+ problems
 * [ ] Master fundamental DSA patterns
@@ -202,9 +190,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 29**
+**Problems Solved: 34**
 
-**Current Day: 29**
+**Current Day: 34**
 
 ---
 
