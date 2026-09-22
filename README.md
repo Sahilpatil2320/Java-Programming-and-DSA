@@ -37,7 +37,7 @@ Java-Programming-and-DSA/
 │
 ├── Array/
 │   ├── 01-Basic Array Programs/
-│
+│   └── 02-Two Pointer
 ├── -- 
 
 ```
@@ -56,6 +56,7 @@ Problems are organized by **topic/category** rather than by day.
 
 ### 02 - Array
 - Basic Array Programs
+- Two Pointer
 
 
 ---
@@ -70,6 +71,7 @@ Problems are organized by **topic/category** rather than by day.
 
 ### Array
 - Basic Array Programs — **5/5  ✅**
+- Two Pointer: **1/5  🟢**
 
 ### 🚀 Current Topic 
 **Array → Two Pointer** 
@@ -83,8 +85,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 35
-Current Day: 35
+Total Problems Solved: 36
+Current Day: 36
 
 
 ---
@@ -190,9 +192,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 35**
+**Problems Solved: 36**
 
-**Current Day: 35**
+**Current Day: 36**
 
 ---
 
