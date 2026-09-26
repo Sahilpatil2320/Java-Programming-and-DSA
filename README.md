@@ -71,7 +71,7 @@ Problems are organized by **topic/category** rather than by day.
 
 ### Array
 - Basic Array Programs — **5/5  ✅**
-- Two Pointer: **3/5  🟢**
+- Two Pointer: **5/5  ✅**
 
 ### 🚀 Current Topic 
 **Array → Two Pointer** 
@@ -85,8 +85,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 38
-Current Day: 38
+Total Problems Solved: 40
+Current Day: 40
 
 
 ---
@@ -192,9 +192,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 38**
+**Problems Solved: 40**
 
-**Current Day: 38**
+**Current Day: 40**
 
 ---
 
