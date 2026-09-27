@@ -37,7 +37,8 @@ Java-Programming-and-DSA/
 │
 ├── Array/
 │   ├── 01-Basic Array Programs/
-│   └── 02-Two Pointer
+│   └── 02-Two Pointer/
+│   └── 03-Prefix Sum/
 ├── -- 
 
 ```
@@ -57,6 +58,7 @@ Problems are organized by **topic/category** rather than by day.
 ### 02 - Array
 - Basic Array Programs
 - Two Pointer
+- Prefix Sum 
 
 
 ---
@@ -72,21 +74,22 @@ Problems are organized by **topic/category** rather than by day.
 ### Array
 - Basic Array Programs — **5/5  ✅**
 - Two Pointer: **5/5  ✅**
+- Prefix Sum — **1/5 🟢**
 
 ### 🚀 Current Topic 
-**Array → Two Pointer** 
+**Array → Prefix Sum** 
 
 Previous: 
 
-**Array → Basic Array Programs → 5/5 ✅**
+**Array → Two Pointer → 5/5 ✅**
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 40
-Current Day: 40
+Total Problems Solved: 41
+Current Day: 41
 
 
 ---
@@ -192,9 +195,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 40**
+**Problems Solved: 41**
 
-**Current Day: 40**
+**Current Day: 41**
 
 ---
 
