@@ -74,7 +74,7 @@ Problems are organized by **topic/category** rather than by day.
 ### Array
 - Basic Array Programs — **5/5  ✅**
 - Two Pointer: **5/5  ✅**
-- Prefix Sum — **3/5 🟢**
+- Prefix Sum — **4/5 🟢**
 
 ### 🚀 Current Topic 
 **Array → Prefix Sum** 
@@ -88,8 +88,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 43
-Current Day: 43
+Total Problems Solved: 44
+Current Day: 44
 
 
 ---
@@ -195,9 +195,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 43**
+**Problems Solved: 44**
 
-**Current Day: 43**
+**Current Day: 44**
 
 ---
 
