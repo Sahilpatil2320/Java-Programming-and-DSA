@@ -39,6 +39,7 @@ Java-Programming-and-DSA/
 │   ├── 01-Basic Array Programs/
 │   └── 02-Two Pointer/
 │   └── 03-Prefix Sum/
+│   └── 04-Sliding Window/
 ├── ---
 
 ```
@@ -59,6 +60,7 @@ Problems are organized by **topic/category** rather than by day.
 - Basic Array Programs
 - Two Pointer
 - Prefix Sum 
+- Sliding Window 
 
 
 ---
@@ -74,14 +76,15 @@ Problems are organized by **topic/category** rather than by day.
 ### Array
 - Basic Array Programs — **5/5  ✅**
 - Two Pointer: **5/5  ✅**
-- Prefix Sum — **5/5 🟢**
+- Prefix Sum — **5/5 ✅**
+- Sliding Window: **1/5 🟢**
 
 ### 🚀 Current Topic 
-**Array → Prefix Sum** 
+**Array → Sliding Window** 
 
 Previous: 
 
-**Array → Two Pointer → 5/5 ✅**
+**Array → Prefix Sum → 5/5 ✅**
  
 ---
 
