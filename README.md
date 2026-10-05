@@ -77,7 +77,7 @@ Problems are organized by **topic/category** rather than by day.
 - Basic Array Programs — **5/5  ✅**
 - Two Pointer: **5/5  ✅**
 - Prefix Sum — **5/5 ✅**
-- Sliding Window: **3/5 🟢**
+- Sliding Window: **4/5 🟢**
 
 ### 🚀 Current Topic 
 **Array → Sliding Window** 
@@ -91,8 +91,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 48
-Current Day: 48
+Total Problems Solved: 49
+Current Day: 49
 
 
 ---
@@ -198,9 +198,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 48**
+**Problems Solved: 49**
 
-**Current Day: 48**
+**Current Day: 49**
 
 ---
 
