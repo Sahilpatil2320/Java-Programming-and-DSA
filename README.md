@@ -40,6 +40,7 @@ Java-Programming-and-DSA/
 │   └── 02-Two Pointer/
 │   └── 03-Prefix Sum/
 │   └── 04-Sliding Window/
+│   └── 05-Hashing/
 ├── ---
 
 ```
@@ -61,6 +62,7 @@ Problems are organized by **topic/category** rather than by day.
 - Two Pointer
 - Prefix Sum 
 - Sliding Window 
+- Hashing
 
 
 ---
@@ -77,22 +79,23 @@ Problems are organized by **topic/category** rather than by day.
 - Basic Array Programs — **5/5  ✅**
 - Two Pointer: **5/5  ✅**
 - Prefix Sum — **5/5 ✅**
-- Sliding Window: **5/5 🟢**
+- Sliding Window: **5/5 ✅**
+- Hashing: **1/5 🟢**
 
 ### 🚀 Current Topic 
-**Array → Sliding Window** 
+**Array → Hashing** 
 
 Previous: 
 
-**Array → Prefix Sum → 5/5 ✅**
+**Array → Sliding Window → 5/5 ✅**
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 50
-Current Day: 50
+Total Problems Solved: 51
+Current Day: 51
 
 
 ---
@@ -198,9 +201,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 50**
+**Problems Solved: 51**
 
-**Current Day: 50**
+**Current Day: 51**
 
 ---
 
