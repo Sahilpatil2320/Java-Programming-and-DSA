@@ -80,7 +80,7 @@ Problems are organized by **topic/category** rather than by day.
 - Two Pointer: **5/5  ✅**
 - Prefix Sum — **5/5 ✅**
 - Sliding Window: **5/5 ✅**
-- Hashing: **4/5 🟢**
+- Hashing: **5/5 🟢**
 
 ### 🚀 Current Topic 
 **Array → Hashing** 
@@ -94,8 +94,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 54
-Current Day: 54
+Total Problems Solved: 55
+Current Day: 55
 
 
 ---
@@ -201,9 +201,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 54**
+**Problems Solved: 55**
 
-**Current Day: 54**
+**Current Day: 55**
 
 ---
 
