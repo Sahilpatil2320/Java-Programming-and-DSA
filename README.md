@@ -80,22 +80,25 @@ Problems are organized by **topic/category** rather than by day.
 - Two Pointer: **5/5  ✅**
 - Prefix Sum — **5/5 ✅**
 - Sliding Window: **5/5 ✅**
-- Hashing: **5/5 🟢**
+- Hashing: **5/5 ✅**
+
+### String
+-  Basic String Programs — **3/5  🟢**
 
 ### 🚀 Current Topic 
-**Array → Hashing** 
+**String → Basic String Programs** 
 
 Previous: 
 
-**Array → Sliding Window → 5/5 ✅**
+**Array → Hashing → 5/5 ✅**
  
 ---
 
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 57
-Current Day: 57
+Total Problems Solved: 58
+Current Day: 58
 
 
 ---
@@ -201,9 +204,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 55**
+**Problems Solved: 58**
 
-**Current Day: 55**
+**Current Day: 58**
 
 ---
 
