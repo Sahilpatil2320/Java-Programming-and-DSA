@@ -41,6 +41,9 @@ Java-Programming-and-DSA/
 │   └── 03-Prefix Sum/
 │   └── 04-Sliding Window/
 │   └── 05-Hashing/
+│ 
+├── String/
+│   ├── 01-Basic String Programs/
 ├── ---
 
 ```
@@ -83,7 +86,7 @@ Problems are organized by **topic/category** rather than by day.
 - Hashing: **5/5 ✅**
 
 ### String
--  Basic String Programs — **3/5  🟢**
+-  Basic String Programs — **4/5  🟢**
 
 ### 🚀 Current Topic 
 **String → Basic String Programs** 
@@ -97,8 +100,8 @@ Previous:
 ## 📊 Progress Summary
 
 ```text
-Total Problems Solved: 58
-Current Day: 58
+Total Problems Solved: 59
+Current Day: 59
 
 
 ---
@@ -204,9 +207,9 @@ The focus is to:
 
 **Daily Coding Practice Started**
 
-**Problems Solved: 58**
+**Problems Solved: 59**
 
-**Current Day: 58**
+**Current Day: 59**
 
 ---
 
